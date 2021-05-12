@@ -1,0 +1,2 @@
+This is a kaggle Project run within an EDSA class , where we are suppose to construct a regression algorithm
+ that will accurately predict the price of the Golden Delicious Apples given certain parameters
